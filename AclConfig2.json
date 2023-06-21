@@ -1,0 +1,43 @@
+[
+    {
+        "keyPrefix": "s3://swapniltestbucket-3/document/January26.docx",
+        "aclEntries": [
+            {
+                "Name": "swapnil_mankar@persistent.com",,
+                "Type": "USER",
+                "Access": "ALLOW"
+            }
+        ]
+    },
+    {
+        "keyPrefix": "s3://swapniltestbucket-3/TestS3/January-15.html",
+        "aclEntries": [
+            {
+                "Name": "shriya_jain@persistent.com",
+                "Type": "USER",
+                "Access": "ALLOW"
+            }
+        ]
+    },
+	{
+        "keyPrefix": "s3://swapniltestbucket-3/TestS3/January-16.pptx",
+        "aclEntries": [
+            {
+                "Name": "shreyash_bandekar@persistent.com",
+                "Type": "USER",
+                "Access": "ALLOW"
+            }
+        ]
+    },
+	{
+        "keyPrefix": "s3://swapniltestbucket-3/TestS3/January-17.pdf",
+        "aclEntries": [
+            {
+                "Name": "suyog_deoskar@persistent.com",
+                "Type": "USER",
+                "Access": "DENY"
+            }
+        ]
+    }
+	
+]
