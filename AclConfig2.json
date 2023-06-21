@@ -5,7 +5,7 @@
             {
                 "Name": "swapnil_mankar@persistent.com",,
                 "Type": "USER",
-                "Access": "ALLOW"
+                "Access": "ALLOW/DENY COnflicting access to same user" /** adding comment for change log*/
             }
         ]
     },
