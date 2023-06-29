@@ -13,7 +13,7 @@
         "keyPrefix": "s3://swapniltestbucket-3/TestS3/January-15.html",
         "aclEntries": [
             {
-                "Name": "shriya_jain@persistent.com",
+                "Name": "shriya_jain@persistent.com", /** adding comment for repository document modification*/
                 "Type": "USER",
                 "Access": "ALLOW"
             }
