@@ -1,0 +1,26 @@
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "uri1",
+                "uri2",
+                "uri3"
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "prefix1",
+                "prefix2",
+                "prefix3"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+                            
