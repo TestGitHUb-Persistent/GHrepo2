@@ -1,0 +1,4 @@
+main{
+printf("Hello WOrld");
+printf("second statement of firs program");
+};
